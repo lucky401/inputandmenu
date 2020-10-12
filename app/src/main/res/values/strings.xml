@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inputandmenu</string>
+    <string-array name="labels">
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+    </string-array>
+</resources>
